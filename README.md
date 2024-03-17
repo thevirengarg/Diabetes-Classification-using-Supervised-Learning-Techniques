@@ -1,4 +1,4 @@
-# Diabetes-Classification-using-Supervised-Learning-Techniques
+# Diabetes Prediction Using Machine Learning
 
 This repository contains a Jupyter notebook for building machine learning models to predict the presence of diabetes in Pima Indian women based on various diagnostic measurements. The dataset used in this project is the Pima Indians Diabetes Database, which is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
 
@@ -61,4 +61,3 @@ The `Diabetes.ipynb` notebook performs the following tasks:
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
