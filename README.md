@@ -29,6 +29,7 @@ To run this project, you'll need the following dependencies:
 - Matplotlib
 - Seaborn
 - Imbalanced-learn (for handling imbalanced data)
+- SciPy
 
 ## Code Analysis
 
